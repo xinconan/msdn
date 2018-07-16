@@ -71,3 +71,39 @@ SHA1: d5e89fb54169f5a2e610c75813ce833a4cb9a4e4
 发布时间: 2018-04-30  
 ed2k://|file|cn_windows_10_consumer_editions_version_1803_updated_march_2018_x86_dvd_12063452.iso|3480692736|0EC3C40EF13D772798209981F18B6A5D|/
 
+## 1709
+### 1709 Updated Dec（中文简体）
+
+Windows 10 (multi-edition) VL, Version 1709 (Updated Dec 2017) (x64)
+
+> 文件名: cn_windows_10_multi-edition_vl_version_1709_updated_dec_2017_x64_dvd_100406208.iso  
+SHA1: 69dc07e7b7940121027be4c9b51648fa31d2b6ad  
+文件大小: 4.66GB  
+发布时间: 2017-12-19  
+ed2k://|file|cn_windows_10_multi-edition_vl_version_1709_updated_dec_2017_x64_dvd_100406208.iso|5007116288|317BDC520FA2DD6005CBA8293EA06DF6|/
+
+
+Windows 10 (multi-edition) VL, Version 1709 (Updated Dec 2017) (x86)
+
+> 文件名: cn_windows_10_multi-edition_vl_version_1709_updated_dec_2017_x86_dvd_100406319.iso  
+SHA1: efcf3b81076990951dcfea08ab387e9099813ceb  
+文件大小: 3.63GB  
+发布时间: 2017-12-19  
+ed2k://|file|cn_windows_10_multi-edition_vl_version_1709_updated_dec_2017_x86_dvd_100406319.iso|3896993792|D533E16A7FF32BEA5851785DFAA09390|/
+
+Windows 10 (multi-edition), Version 1709 (Updated Dec 2017) (x64)
+
+> 文件名: cn_windows_10_multi-edition_version_1709_updated_dec_2017_x64_dvd_100406696.iso  
+SHA1: 5cc6e158a9d90b9c474ace8a55b66f88bd16221d  
+文件大小: 4.88GB  
+发布时间: 2017-12-19  
+ed2k://|file|cn_windows_10_multi-edition_version_1709_updated_dec_2017_x64_dvd_100406696.iso|5242322944|7D89E63B0C4B5881DBCDB042FF1EB8F3|/
+
+Windows 10 (multi-edition), Version 1709 (Updated Dec 2017) (x86) 
+
+> 文件名: cn_windows_10_multi-edition_version_1709_updated_dec_2017_x86_dvd_100406742.iso  
+SHA1: 6f1aaf615a78cb0c01b5a5d9fd3ba148f6dea74b  
+文件大小: 3.78GB  
+发布时间: 2017-12-19  
+ed2k://|file|cn_windows_10_multi-edition_version_1709_updated_dec_2017_x86_dvd_100406742.iso|4056664064|5FCF7887A5B9C001B1A55A9A1D8EC32E|/
+
