@@ -1,0 +1,28 @@
+# VS 2015
+## VS 2015 with Update 3
+Visual Studio Community 2015 with Update 3 (x86 and x64)
+
+> 文件名: cn_visual_studio_community_2015_with_update_3_x86_x64_dvd_8923246.iso  
+SHA1: 43E0A127206ACA3638AFCA8E79807D3FF15A97EA  
+文件大小: 7.11GB  
+发布时间: 2016-06-27  
+ed2k://|file|cn_visual_studio_community_2015_with_update_3_x86_x64_dvd_8923246.iso|7633565696|605D19028916D09E1BFA2DABBD266FE9|/
+
+
+Visual Studio Enterprise 2015 with Update 3 (x86 and x64) 
+
+> 文件名: cn_visual_studio_enterprise_2015_with_update_3_x86_x64_dvd_8923298.iso  
+SHA1: B5109C53CB1251F4C85DE7AC8F79B1C3A679FF42  
+文件大小: 7.25GB  
+发布时间: 2016-06-27  
+ed2k://|file|cn_visual_studio_enterprise_2015_with_update_3_x86_x64_dvd_8923298.iso|7787208704|A1C1D2AFBC09D8778C92CF19DEC8F4F4|/
+
+
+Visual Studio Professional 2015 with Update 3 (x86 and x64)
+
+> 文件名: cn_visual_studio_professional_2015_with_update_3_x86_x64_dvd_8923256.iso  
+SHA1: 99E6C061FFB3194D28682D75D5F2F0F12A8D614F  
+文件大小: 7.21GB  
+发布时间: 2016-06-27  
+ed2k://|file|cn_visual_studio_professional_2015_with_update_3_x86_x64_dvd_8923256.iso|7745202176|DD35D3D169D553224BE5FB44E074ED5E|/
+
