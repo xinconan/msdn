@@ -1,3 +1,30 @@
+# VS 2017
+VS 2017开始官方不提供离线安装包，需在线安装使用。
+
+Visual Studio Community 2017 (version 15.7) (x86 and x64)
+> 文件名: mu_visual_studio_community_2017_version_15.3_x86_x64_11100062.exe  
+SHA1: EC5E128EDC90FAC0BBADECD6DB32F8F008A4D669  
+文件大小: 1.02MB  
+发布时间:  2017-08-14  
+ed2k://|file|mu_visual_studio_community_2017_version_15.3_x86_x64_11100062.exe|1069960|5984B3CD547F9F213DE21EFE5887F08D|/
+
+
+Visual Studio Enterprise 2017 (version 15.7) (x86 and x64)
+> 文件名: mu_visual_studio_enterprise_2017_version_15.3_x86_x64_11100063.exe  
+SHA1: 62EEE28995AA688EB3E073C32E5F10651DAA6823  
+文件大小: 1.02MB  
+发布时间: 2017-08-14  
+ed2k://|file|mu_visual_studio_enterprise_2017_version_15.3_x86_x64_11100063.exe|1069960|44E1DEF76E77D932FAC67391B253E355|/
+
+
+Visual Studio Professional 2017 (version 15.7) (x86 and x64)
+> 文件名: mu_visual_studio_professional_2017_version_15.3_x86_x64_11100064.exe  
+SHA1: 2366115BA402737C474EE8001F326787F16BA676  
+文件大小: 1.02MB  
+发布时间: 2017-08-14  
+ed2k://|file|mu_visual_studio_professional_2017_version_15.3_x86_x64_11100064.exe|1069960|900673A59F0798822207F72FAA0DA6A9|/
+
+
 # VS 2015
 ## VS 2015 with Update 3 (中文简体)
 Visual Studio Community 2015 with Update 3 (x86 and x64)
