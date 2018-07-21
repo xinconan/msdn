@@ -71,3 +71,30 @@ SHA1: C90A6703F676E3265483F4ED8E7C01F01194E647
 发布时间: 2016-03-30  
 ed2k://|file|cn_visual_studio_professional_2015_with_update_2_x86_x64_dvd_8509246.iso|7591639040|AE734B5731B7DD489102A1101BE4595B|/
 
+
+# VS 2013
+## VS 2013 with Update 5 (中文简体)
+
+Visual Studio Premium 2013 with Update 5 (x86)
+> 文件名: cn_visual_studio_premium_2013_with_update_5_x86_dvd_6815741.iso  
+SHA1: 9A2B64D73AAC916EA606B42B164A9C6E88D062D6  
+文件大小: 5.17GB  
+发布时间: 2015-07-20  
+ed2k://|file|cn_visual_studio_premium_2013_with_update_5_x86_dvd_6815741.iso|5549494272|561EF218E48FECBBC04781A86860D00C|/
+
+
+Visual Studio Professional 2013 with Update 5 (x86)
+> 文件名: cn_visual_studio_professional_2013_with_update_5_x86_dvd_6815749.iso  
+SHA1: BDD95F90F1BBC8214B64E4E8D36170CCD4C7A845  
+文件大小: 5.14GB  
+发布时间: 2015-07-20  
+ed2k://|file|cn_visual_studio_professional_2013_with_update_5_x86_dvd_6815749.iso|5517246464|DEA9BB85B73F6A1F23E638DFE06CEF07|/
+
+
+Visual Studio Ultimate 2013 with Update 5 (x86)
+> 文件名: cn_visual_studio_ultimate_2013_with_update_5_x86_dvd_6816649.iso  
+SHA1: 87269A0C8AE4ACBF515532F0759F6029167A318B  
+文件大小: 5.18GB  
+发布时间: 2015-07-20  
+ed2k://|file|cn_visual_studio_ultimate_2013_with_update_5_x86_dvd_6816649.iso|5567336448|641555AD6472A98923B29CC5E371461E|/
+
