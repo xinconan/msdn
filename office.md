@@ -1,3 +1,24 @@
+# office 2019
+2019只支持win10系统。
+
+## 简体中文
+专业增强版（强烈推荐）：
+
+http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2019Retail.img
+
+专业版：
+
+http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Professional2019Retail.img
+
+家庭学生版：
+
+http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeStudent2019Retail.img
+
+家庭企业版：
+
+http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeBusiness2019Retail.img
+
+
 # office 2016
 ## 中文简体
 Office Professional Plus 2016 (x86 and x64)
