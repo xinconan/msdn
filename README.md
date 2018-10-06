@@ -4,4 +4,4 @@
 - [Windows10](win10.md)
 - [Office](office.md)
 - [Visual Studio](vs.md)
-- [Windows Server](windows server.md)
+- [Windows Server](server.md)
