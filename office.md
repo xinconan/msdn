@@ -12,6 +12,7 @@ ed2k://|file|cn_office_professional_plus_2019_x86_x64_dvd_5e5be643.iso|377500467
 
 
 专业增强版：
+> 和cn_office_professional_plus_2019_x86_x64_dvd_5e5be643.iso是一样的，sha1都一样
 
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2019Retail.img
 
