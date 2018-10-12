@@ -2,7 +2,16 @@
 2019只支持win10系统。
 
 ## 简体中文
-专业增强版（强烈推荐）：
+Office Professional Plus 2019 (x86 and x64)
+
+> 文件名：cn_office_professional_plus_2019_x86_x64_dvd_5e5be643.iso  
+SHA1：d850365b23e1e1294112a51105a2892b2bd88eb9  
+文件大小：3.52GB  
+发布时间：2018-10-03  
+ed2k://|file|cn_office_professional_plus_2019_x86_x64_dvd_5e5be643.iso|3775004672|1E4FFA5240F21F60DC027F73F1C62FF4|/
+
+
+专业增强版：
 
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2019Retail.img
 
